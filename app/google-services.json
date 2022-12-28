@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950158074015",
+    "project_id": "admin-control-madrasha-app5",
+    "storage_bucket": "admin-control-madrasha-app5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950158074015:android:e5c0c42635390a6f9702aa",
+        "android_client_info": {
+          "package_name": "com.masud.admin_control5_madrasha_app_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950158074015-jolgpig07s4dijimq3dkrf22i1j5ldrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVixpg7gqqb40BkIZs84Z5rlP_sCOuETY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950158074015-jolgpig07s4dijimq3dkrf22i1j5ldrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
